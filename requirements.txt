@@ -10,3 +10,5 @@ pypdf
 python-dotenv
 pymupdf
 unstructured
+python-docx
+docx2txt
