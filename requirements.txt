@@ -13,3 +13,8 @@ unstructured
 python-docx
 docx2txt
 unstructured[docx]
+pandas
+openpyxl
+unstructured 
+openpyxl 
+msoffcrypto-tool
