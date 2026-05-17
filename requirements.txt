@@ -12,3 +12,4 @@ pymupdf
 unstructured
 python-docx
 docx2txt
+unstructured[docx]
