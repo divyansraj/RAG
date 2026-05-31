@@ -12,3 +12,4 @@ wheels/
 venv/
 
 0-DataIngestParsing
+3-VectorStore/chromadb/
