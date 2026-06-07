@@ -13,3 +13,4 @@ venv/
 
 0-DataIngestParsing
 3-VectorStore/chromadb/
+3-VectorStore/faiss_vector_store/

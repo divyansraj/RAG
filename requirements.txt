@@ -1,6 +1,6 @@
 langchain
 langchain-groq
-faiss-cpu
+
 tiktoken
 langchain-community
 langchain-openai
@@ -27,3 +27,5 @@ sentence-transformers
 
 ## Vector Stores
 langchain-chroma
+faiss-cpu
+# Load libraries
