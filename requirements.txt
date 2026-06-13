@@ -28,4 +28,6 @@ sentence-transformers
 ## Vector Stores
 langchain-chroma
 faiss-cpu
-# Load libraries
+# Vector DB
+langchain-astradb
+langchain-pinecone
