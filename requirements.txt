@@ -31,3 +31,6 @@ faiss-cpu
 # Vector DB
 langchain-astradb
 langchain-pinecone
+
+langchain-experimental
+rank_bm25
